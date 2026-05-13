@@ -157,5 +157,20 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="mhsanaei--3x-ui"></div>
 
+### MHSanaei--3x-ui
+
+🔗 [source](https://github.com/MHSanaei/3x-ui) – [<code><small>v3.0.1</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.0.1)
+
+| File | Size | Download |
+|------|------|----------|
+| `x-ui-linux-386.tar.gz` | 67.0 MB | [⬇️ Download](https://raw.githubusercontent.com/eldorado345/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-386.tar.gz) |
+| `x-ui-linux-amd64.tar.gz` | 68.7 MB | [⬇️ Download](https://raw.githubusercontent.com/eldorado345/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-amd64.tar.gz) |
+| `x-ui-linux-arm64.tar.gz` | 65.6 MB | [⬇️ Download](https://raw.githubusercontent.com/eldorado345/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-arm64.tar.gz) |
+| `x-ui-linux-armv5.tar.gz` | 66.9 MB | [⬇️ Download](https://raw.githubusercontent.com/eldorado345/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-armv5.tar.gz) |
+| `x-ui-linux-armv6.tar.gz` | 66.9 MB | [⬇️ Download](https://raw.githubusercontent.com/eldorado345/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-armv6.tar.gz) |
+| `x-ui-linux-armv7.tar.gz` | 66.8 MB | [⬇️ Download](https://raw.githubusercontent.com/eldorado345/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-armv7.tar.gz) |
+| `x-ui-linux-s390x.tar.gz` | 68.3 MB | [⬇️ Download](https://raw.githubusercontent.com/eldorado345/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-s390x.tar.gz) |
+| `x-ui-windows-amd64.zip` | 75.1 MB | [⬇️ Download](https://raw.githubusercontent.com/eldorado345/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-windows-amd64.zip) |
 <!-- RELEASES_END -->
